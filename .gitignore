@@ -35,6 +35,9 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+# packages
+/ServerSide/packages
+
 #for Mac
 *.DS_Store
 
